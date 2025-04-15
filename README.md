@@ -17,7 +17,7 @@ This is a simple program that can be used for forwarding telegram messages betwe
 Contact me to buy this program or for demos. This program is $25, and If you need I'll provide a guide to use the application.
 - Email: [lakdev28@proton.me](mailto:lakdev28@proton.me)
 - Discord: lakdev28
-- Telegram: [lakdev28](https://t.me/lakdev0208)
+- Telegram: [lakdev0208](https://t.me/lakdev0208)
 - Twitter: [lakdev28](https://twitter.com/lakdev28)
 - Reddit: [lakdev_28](https://www.reddit.com/user/lakdev_28)
 - Instagram: [lakdev28](https://www.instagram.com/lakdev28)
